@@ -1,19 +1,4 @@
 
-Skip to content
-
-    All gists
-    GitHub
-
-    New gist
-
-    0
-
-@Djamuka Djamuka/Tester_3.7V_Attiny85.ino
-Created 8 minutes ago
-Code
-Revisions 1
-Attiny85 Testeur 3.7V
-Tester_3.7V_Attiny85.ino
 int Batt = A1;  // Attiny45 Physical 7
 int Led_R = 1;  // Attiny45 Physical 6 , Doit étre sur OC0 pour PWM séparé
 int Led_V = 4;  // Attiny45 Physical 3 , Doit étre sur OC1 pour PWM séparé
@@ -85,24 +70,5 @@ void loop() {
     LedBlink = 0;
    }
 }
-@Djamuka
 
-Attach files by dragging & dropping,
-
-, or pasting from the clipboard.
-Styling with Markdown is supported
-
-    © 2018 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    API
-    Training
-    Shop
-    Blog
-    About
 
