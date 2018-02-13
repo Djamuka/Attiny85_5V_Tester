@@ -1,7 +1,7 @@
 
-int Batt = A1;  // Attiny45 Physical 7
-int Led_R = 1;  // Attiny45 Physical 6 , Doit étre sur OC0 pour PWM séparé
-int Led_V = 4;  // Attiny45 Physical 3 , Doit étre sur OC1 pour PWM séparé
+int Batt = A1;  // Attinyx5 Pin 7
+int Led_R = 1;  // Attinyx5 Pin 6 , Doit étre sur OC0 pour PWM séparé
+int Led_V = 4;  // Attinyx5 Pin 3 , Doit étre sur OC1 pour PWM séparé
 int Read_Batt;
 float Value = 0.000;
 float Ratio = 0.000;
